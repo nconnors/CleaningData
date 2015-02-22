@@ -9,7 +9,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 The aim of this project is to clean up the data and provide a summary of specific variables (means and stds) for each trial/user/activity combination.
 
 ## Raw Data 
-The data available for analysis in the UCI HAR Dataset (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) includes training and testing samples for each subject, activity and trial combination. For each trial, a combined 561 different data points were recorded.
+The data available for analysis in the UCI HAR Dataset (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) includes training and testing samples for each subject, activity and trial combination. For each trial, a combined 561 different data points were recorded. The data has all been normalized.
 
 ## Processed Data
 The final tidy data set ("tidyDataSet.txt") contains the following variables:
