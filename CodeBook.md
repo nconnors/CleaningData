@@ -28,7 +28,7 @@ The names for the final tidy data set should be sufficiently descriptive, but th
 * "time" or "freq" : Whether the measure is over the time or frequency domain
 * "Body"" or "Gravity" : Whether the data indicates body or gravity acceration signals
 * "Mean" or "StandardDev" or "MeanFreq": Whether the value is a mean or standard deviation or mean freq (weighted average of the frequency components to obtain a mean frequency)
-* "along_?axis": What axis the data belongs to
+* "along_?axis": What axis the data belongs to, where ? is replaced by X, Y or Z
 
 ### Feature averages
 
