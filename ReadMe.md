@@ -25,7 +25,7 @@ The resulting data table is called AllDataDT.
 
 2. Extracts only the measurements on the mean and standard deviation for each measurement. The columns that contain measurements for mean and standard deviations contain the strings "mean" and "std" in the variable name. There were 82 variables that satisfied this rule. The resulting data table is called ExtractedDT.
 
-3. Uses descriptive activity names to name the activities in the data set. The activity labels are read in from the file "activity_labels.txt", and they numbers in the "Activity" column in the dataset are replaced with the word descriptions from the file. This column now becomes a factor. The resulting data table is called ExtractedDT.
+3. Uses descriptive activity names to name the activities in the data set. The activity labels are read in from the file "activity_labels.txt", and the numbers in the "Activity" column in the dataset are replaced with the word descriptions from the file. This column now becomes a factor. The resulting data table is called ExtractedDT.
 
 Steps 4 and 5 were swapped for expediency.
 
