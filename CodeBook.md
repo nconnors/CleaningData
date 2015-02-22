@@ -32,8 +32,8 @@ The names for the final tidy data set should be sufficiently descriptive, but th
 
 ### Feature averages
 
-..."Avg_time_Body_Acceleration_Mean()_along_Xaxis"
-..."Avg_time_Body_Acceleration_Mean()_along_Yaxis"
+* "Avg_time_Body_Acceleration_Mean()_along_Xaxis"
+* "Avg_time_Body_Acceleration_Mean()_along_Yaxis"
 "Avg_time_Body_Acceleration_Mean()_along_Zaxis"
 "Avg_time_Body_Acceleration_StandardDev()_along_Xaxis"
 "Avg_time_Body_Acceleration_StandardDev()_along_Yaxis"
