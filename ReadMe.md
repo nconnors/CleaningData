@@ -34,18 +34,18 @@ This is done with one line of code, where the dataset is grouped by user, activi
 
 4. Appropriately labels the data set with descriptive variable names. 
 In order to make the variable names more readable, the existing names are transformed as follows:
-..."-Y" is changed to "along_Yaxis"
-..."-Z" is changed to "along_Zaxis"
-..."-X" is changed to "along_Xaxis"
-..."-" is changed to "_"
-..."Acc" is changed to "_Acceleration"
-..."Mag" is changed to "_Magnitude"
-..."std()" is changed to "StandardDev"
-..."mean()" is changed to "Mean"
-..."()along" is changed to "_along"
-..."tBody" is changed to "Avg_time_Body"
-..."fBody" is changed to "Avg_freq_Body"
-..."tGravity" is changed to "Avg_time_Gravity"
+* "-Y" is changed to "along_Yaxis"
+* "-Z" is changed to "along_Zaxis"
+* "-X" is changed to "along_Xaxis"
+* "-" is changed to "_"
+* "Acc" is changed to "_Acceleration"
+* "Mag" is changed to "_Magnitude"
+* "std()" is changed to "StandardDev"
+* "mean()" is changed to "Mean"
+* "()along" is changed to "_along"
+* "tBody" is changed to "Avg_time_Body"
+* "fBody" is changed to "Avg_freq_Body"
+* "tGravity" is changed to "Avg_time_Gravity"
 
 The resulting data table is called TidyDT.
 
