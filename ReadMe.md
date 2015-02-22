@@ -1,7 +1,7 @@
 
-#H1 Readme - Cleaning Data Assignment
+# Readme - Cleaning Data Assignment
 
-#H2 Before running the code
+## Before running the code
 
 The code in the runAnalysis.R file creates a file called tidyDataSet.txt with the 
 tidy data for the assigment as described in the Codebook.
@@ -16,7 +16,7 @@ where [...] contains the filepath to the UCI HAR Dataset.
 
 The working directory should also be set to the UCI HAR Dataset folder.
 
-#2 What the code does
+## What the code does
 
 1. Merges the training and the test sets to create one data set. 
 When the trial data and the test data are merged, and a new column, called Test, in used to denote whether the observation came from the test set (Test=1) or the training set (Test=0).

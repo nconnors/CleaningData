@@ -1,6 +1,6 @@
-#H1 Codebook
+#Codebook
 
-#H2 Background
+## Background
 The following is an extract of the original data source at:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
@@ -8,10 +8,10 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 The aim of this project is to clean up the data and provide a summary of specific variables (means and stds) for each trial/user/activity combination.
 
-#H2 Raw Data 
+## Raw Data 
 The data available for analysis in the UCI HAR Dataset (https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) includes training and testing samples for each subject, activity and trial combination. For each trial, a combined 561 different data points were recorded.
 
-#H2 Processed Data:
+## Processed Data
 The final tidy data set ("tidyDataSet.txt") contains the following variables:
 
 "Test": Coded as a factor variable denoting whether the data came from testing (Test=1) or training (Test=0)
@@ -30,7 +30,7 @@ The names for the final tidy data set should be sufficiently descriptive, but th
 "Mean" or "StandardDev" or "MeanFreq": Whether the value is a mean or standard deviation or mean freq (weighted average of the frequency components to obtain a mean frequency)
 "along_?axis": What axis the data belongs to
 
-#H3 Feature averages
+### Feature averages
 
 "Avg_time_Body_Acceleration_Mean()_along_Xaxis"
 "Avg_time_Body_Acceleration_Mean()_along_Yaxis"
