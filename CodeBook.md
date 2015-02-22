@@ -24,11 +24,11 @@ The rest of the features are averages of selected variables over for each user a
 
 The names for the final tidy data set should be sufficiently descriptive, but the following guide may help the reader:
 
-"Avg" : Averages over the sample for each user and each activity
-"time" or "freq" : Whether the measure is over the time or frequency domain
-"Body"" or "Gravity" : Whether the data indicates body or gravity acceration signals
-"Mean" or "StandardDev" or "MeanFreq": Whether the value is a mean or standard deviation or mean freq (weighted average of the frequency components to obtain a mean frequency)
-"along_?axis": What axis the data belongs to
+* "Avg" : Averages over the sample for each user and each activity
+* "time" or "freq" : Whether the measure is over the time or frequency domain
+* "Body"" or "Gravity" : Whether the data indicates body or gravity acceration signals
+* "Mean" or "StandardDev" or "MeanFreq": Whether the value is a mean or standard deviation or mean freq (weighted average of the frequency components to obtain a mean frequency)
+* "along_?axis": What axis the data belongs to
 
 ### Feature averages
 
